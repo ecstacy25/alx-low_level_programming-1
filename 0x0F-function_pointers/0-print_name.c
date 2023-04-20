@@ -1,7 +1,7 @@
-include "function_pointers.h"
+#include "function_pointers.h"
 
 /**
- * print_name - Write a function that prints a name
+ * print_name - function that prints a name
  * @name: name of the person
  * @f: paramter for the function pointer
  * Return: Nothing.
