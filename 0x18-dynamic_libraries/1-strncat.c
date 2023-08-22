@@ -24,3 +24,4 @@ char *_strncat(char *dest, char *src, int n)
 		count2++;
 	}
 	return (dest);
+}
